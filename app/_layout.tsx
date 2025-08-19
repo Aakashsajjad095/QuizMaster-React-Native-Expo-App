@@ -1,29 +1,47 @@
-import { DarkTheme, DefaultTheme, ThemeProvider } from '@react-navigation/native';
-import { useFonts } from 'expo-font';
+import React from 'react';
 import { Stack } from 'expo-router';
+import { Provider } from 'react-redux';
 import { StatusBar } from 'expo-status-bar';
+import { useFonts } from 'expo-font';
 import 'react-native-reanimated';
 
-import { useColorScheme } from '@/hooks/useColorScheme';
+import { store } from '../src/redux/store';
+import { ThemeProvider } from '../src/contexts/ThemeContext';
+
+
+
 
 export default function RootLayout() {
-  const colorScheme = useColorScheme();
   const [loaded] = useFonts({
     SpaceMono: require('../assets/fonts/SpaceMono-Regular.ttf'),
   });
 
   if (!loaded) {
-    // Async font loading only occurs in development.
     return null;
   }
 
   return (
-    <ThemeProvider value={colorScheme === 'dark' ? DarkTheme : DefaultTheme}>
-      <Stack>
-        <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
-        <Stack.Screen name="+not-found" />
-      </Stack>
-      <StatusBar style="auto" />
-    </ThemeProvider>
+    <Provider store={store}>
+      <ThemeProvider>
+        <Stack
+          screenOptions={{
+            headerShown: false,
+            gestureEnabled: true,
+          }}
+        >
+          <Stack.Screen name="SplashScreen" options={{ gestureEnabled: false }} />
+          <Stack.Screen name="LoginScreen" options={{ gestureEnabled: false }} />
+          <Stack.Screen name="RegisterScreen" />
+          <Stack.Screen name="Home" />
+          <Stack.Screen name="QuizList" />
+          <Stack.Screen name="QuizGame" />
+          <Stack.Screen name="QuizResults" />
+          <Stack.Screen name="Leaderboard" />
+          <Stack.Screen name="Profile" />
+          <Stack.Screen name="Achievements" />
+        </Stack>
+        <StatusBar style="auto" />
+      </ThemeProvider>
+    </Provider>
   );
 }
