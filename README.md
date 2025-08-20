@@ -41,10 +41,6 @@ Result Tracking 📊: Detailed stats on your quiz performance, accuracy, and imp
 
 
 
-https://github.com/user-attachments/assets/8b9cf860-1e01-447d-82d9-7f1c97559c5a
-
-
-
 #  QuizMaster Screenshots 📱
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
