@@ -22,6 +22,10 @@ Result Tracking 📊: Detailed stats on your quiz performance, accuracy, and imp
 
 
 
+https://github.com/user-attachments/assets/8b9cf860-1e01-447d-82d9-7f1c97559c5a
+
+
+
 #  QuizMaster Screenshots 📱
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
@@ -33,6 +37,7 @@ Result Tracking 📊: Detailed stats on your quiz performance, accuracy, and imp
     <img src="https://github.com/user-attachments/assets/f2a08abc-9a4c-49c7-b394-b98c82e9df22" alt="Screenshot 1" width="200" style="margin: 30px;" />
     <img src="https://github.com/user-attachments/assets/56f00dff-9af0-40bf-b7a7-29f88d2806c4" alt="Screenshot 2" width="200" style="margin: 30px;" />
     <img src="https://github.com/user-attachments/assets/034d84a7-c312-4caa-84d4-84f8a66fa7c3" alt="Screenshot 3" width="200" style="margin: 30px;" />
+    <img src="https://github.com/user-attachments/assets/8b9cf860-1e01-447d-82d9-7f1c97559c5a" alt="Screenshot 3" width="200" style="margin: 30px;" />
     <img src="https://github.com/user-attachments/assets/978ebbb5-b244-4d27-a1fc-605024580135" alt="Screenshot 4" width="200" style="margin: 30px;" />
     <img src="https://github.com/user-attachments/assets/00a73119-764c-440b-84d3-533088565fbb" alt="Screenshot 5" width="200" style="margin: 30px;" />
 </div>
