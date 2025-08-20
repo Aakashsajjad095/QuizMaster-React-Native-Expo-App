@@ -1,3 +1,22 @@
+
+<h1 align="center">
+<img
+  src="https://github.com/user-attachments/assets/8531996e-faf8-4423-a8f9-48eb8df3448b"
+  alt="Halal Hearts Dating App React Native"
+  width="250"
+>
+</h1>
+<h3 align="center">
+	QuizMaster App React Native
+</h3>
+
+<p align="center">
+	<img alt="Last Commit" src="https://img.shields.io/github/last-commit/Aakashsajjad095/QuizMaster-React-Native-Expo-App.svg?style=flat-square">
+	<img alt="Licence" src="https://img.shields.io/github/license/Aakashsajjad095/QuizMaster-React-Native-Expo-App.svg?style=flat-square">
+	<img alt="Star" src="https://img.shields.io/badge/you%20like%20%3F-STAR%20ME-blue.svg?style=flat-square">
+</p>
+
+
 ##  QuizMaster 📚🧠🎉
 
 
