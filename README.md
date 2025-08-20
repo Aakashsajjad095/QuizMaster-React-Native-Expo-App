@@ -30,13 +30,11 @@ Result Tracking 📊: Detailed stats on your quiz performance, accuracy, and imp
     <img src="https://github.com/user-attachments/assets/c5551b05-4074-4dbf-9fa3-42fc3bb2c5a7" alt="Screenshot 3" width="200" style="margin: 30px;" />
     <img src="https://github.com/user-attachments/assets/7ddac47b-bbed-493f-9dba-00dab27674e5" alt="Screenshot 4" width="200" style="margin: 30px;" />
     <img src="https://github.com/user-attachments/assets/b79273fb-f6cb-49cc-905a-5926a31e6b1c" alt="Screenshot 5" width="200" style="margin: 30px;" />
-   <img src="https://github.com/user-attachments/assets/f2a08abc-9a4c-49c7-b394-b98c82e9df22" alt="Screenshot 1" width="200" style="margin: 30px;" />
+    <img src="https://github.com/user-attachments/assets/f2a08abc-9a4c-49c7-b394-b98c82e9df22" alt="Screenshot 1" width="200" style="margin: 30px;" />
     <img src="https://github.com/user-attachments/assets/56f00dff-9af0-40bf-b7a7-29f88d2806c4" alt="Screenshot 2" width="200" style="margin: 30px;" />
     <img src="https://github.com/user-attachments/assets/034d84a7-c312-4caa-84d4-84f8a66fa7c3" alt="Screenshot 3" width="200" style="margin: 30px;" />
     <img src="https://github.com/user-attachments/assets/978ebbb5-b244-4d27-a1fc-605024580135" alt="Screenshot 4" width="200" style="margin: 30px;" />
     <img src="https://github.com/user-attachments/assets/00a73119-764c-440b-84d3-533088565fbb" alt="Screenshot 5" width="200" style="margin: 30px;" />
-    
-   
 </div>
 
 
@@ -64,5 +62,4 @@ npx expo start
 That's it! You're ready to explore and enjoy the QuizMaster app. Happy gaming!
 
 
-on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
